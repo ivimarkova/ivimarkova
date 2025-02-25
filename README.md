@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivimarkova 
 - 👀 I’m interested in making programs, and have fun while doing it
-- 🌱 I’m currently learning mostly the language C
+- 🌱 I’m currently learning mostly
 - 📫 How to reach me: link->[...](https://linktr.ee/Ivie_)
 - 😄 Pronouns: she/her
 
