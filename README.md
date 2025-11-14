@@ -39,20 +39,5 @@ You can click the Preview link to take a look at your changes.
    <br><br>
 <!-- <img src="https://wakatime.com/share/@ivimarkova/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
 
-<br>
-
-<div class="flex-container" align=center>
-<img src="/metrics.plugin.leetcode.svg" />
-</div>
-
-<div class="flex-container" align=center>
-<img src="/metrics.plugin.reactions.svg" />
-</div>
-
-<br>
-
-<div class="flex-container" align=center>
-   <a href="https://github.com/ivimarkova"><img align="center" src="https://github.com/user-attachments/assets/4ec13214-0ca1-41f0-8999-351369beda0a" width="100" /></a>
-</div>
 
 <br>
