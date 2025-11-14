@@ -38,9 +38,6 @@ You can click the Preview link to take a look at your changes.
    </div>
    <br><br>
 <!-- <img src="https://wakatime.com/share/@ivimarkova/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
-<div class="flex-container" align=center>
-<img src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="70%">
-</div>
 
 <br>
 
