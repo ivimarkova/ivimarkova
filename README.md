@@ -19,7 +19,7 @@
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivimarkova" alt="ivimarkova" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivimarkova&label=Profile%20views&color=0e75b6&style=flat" alt="ivimarkova" /> </p>
+
 
 <!---
 ivimarkova/ivimarkova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
